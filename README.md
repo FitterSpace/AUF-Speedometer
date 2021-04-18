@@ -3,7 +3,7 @@
 
 ## Features:
 
-Displays the current movement speed and falling speed of the player
+Displays the player's movement speed, falling speed, and position.
 
 Allows you to jump by holding Y instead of pressing it.
 
