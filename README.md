@@ -1,5 +1,5 @@
 # 007: Agent Under Fire (GameCube) Speedometer
-![Gameplay Screenshot](https://cdn.discordapp.com/attachments/181424309611266048/833430442144169984/Screenshot_2021-04-18_145452.png)
+![Gameplay Screenshot](https://cdn.discordapp.com/attachments/181424309611266048/833445395916652555/Screenshot_2021-04-18_155413.png)
 
 ## Features:
 
