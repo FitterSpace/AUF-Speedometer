@@ -3,7 +3,7 @@
 
 ## Features:
 
-Displays the player's movement speed, falling speed, and position.
+Displays the player's movement speed, falling speed, position, and health.
 
 Allows you to jump by holding Y instead of pressing it.
 
@@ -22,3 +22,5 @@ This script only works for the on-foot levels. Driving levels are not supported 
 Multiplayer is not supported. If a bot is in the match, its speed will be shown instead. If there are no bots, player 2's speed will be shown.
 
 The PAL version is not supported.
+
+Sometimes the values on-screen will be 0 for a moment instead of their true value. I don't know why this happens.
