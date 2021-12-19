@@ -1,9 +1,9 @@
 # 007: Agent Under Fire (GameCube) Speedometer
-![Gameplay Screenshot](https://cdn.discordapp.com/attachments/181424309611266048/833445395916652555/Screenshot_2021-04-18_155413.png)
+![Gameplay Screenshot](https://cdn.discordapp.com/attachments/181424309611266048/922175982260088873/unknown.png)
 
 ## Features:
 
-Displays the player's movement speed, falling speed, position, and health.
+Displays the player's movement speed, falling speed, position, angles, and health.
 
 Allows you to jump by holding Y instead of pressing it.
 
@@ -24,3 +24,5 @@ Multiplayer is not supported. If a bot is in the match, its speed will be shown 
 The PAL version is not supported.
 
 Sometimes the values on-screen will be 0 for a moment instead of their true value. I don't know why this happens.
+
+Direction and Wishdir are undefined at 0.
